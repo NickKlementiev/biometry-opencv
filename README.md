@@ -4,7 +4,7 @@ A Python project made to identify and match fingerprint images using the opencv-
 
 ## Installing dependencies
 
-Run `pip install -r requirements.txt`, might take a while depending on your internet connection
+Run `pip install -r requirements.txt`, might take a while depending on your internet connection.
 
 ## Running the project
 

@@ -8,4 +8,4 @@ Run `pip install -r requirements.txt`, might take a while depending on your inte
 
 ## Running the project
 
-Execute `fingerprint_match.py [fingerprint1] [fingerprint2]` to compare two fingerprints, the script will print "true" or "false" depending on the result.
+Execute `python fingerprint_match.py [fingerprint1] [fingerprint2]` to compare two fingerprints, the script will print "true" or "false" depending on the result.
